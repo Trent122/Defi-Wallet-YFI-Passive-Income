@@ -1,4 +1,4 @@
-# Defi-Wallet-YFI-Passive-Income
+# Defi-DAPPWallet-YFI-Passive-Income
 
 Defi Wallet in which you can Deposit, Store and Withdraw Tokens as you  normally perform but you also Earn Interests while your Money is in the Wallet the connection of the Wallet can funnel external platforms such as Aave, compound, YFI, & Curve
 
