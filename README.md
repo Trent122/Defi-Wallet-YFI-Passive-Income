@@ -11,3 +11,5 @@ Defi Wallet in which you can Deposit, Store and Withdraw Tokens as you  normally
 Following a ```JS Sciprt```checks our Wallet daily, weekly, or monthly for extra stable coins that are not receiving interest in the protocol.
 
 #2 Wallet is multi-chain ready compatible with L1 & L2 applications when instructed through metamask ```Web3 Injection``` then proceeding to the respected ecosystem you are trying to bridge funds or contracts.
+
+This is the "consortium" of all services listed
