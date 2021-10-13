@@ -2,6 +2,9 @@
 
 ![1_NirfwCqOZNGCx_ZooxGgrg](https://user-images.githubusercontent.com/59753390/136599626-e5cf3567-0f10-4a8d-8964-9e60415de188.png)
 
+![DEFI-wallet-Functioning TM](https://user-images.githubusercontent.com/59753390/137085556-8e658134-a79e-4fc9-b040-29e9e2ed50bb.jpg)
+
+
 Defi Wallet in which you can Deposit, Store and Withdraw Tokens as you  normally perform but you also Earn Interests while your Money is in the Wallet the connection of the Wallet can funnel external platforms such as Aave, compound, YFI, & Curve
 
 #1 Providing our front-end portion connected with ```Node React JS ``, we can accept and disburse multiple stable coins. At the same time, maintaining the APY on our current staked funds.
